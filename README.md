@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=300&section=header&text=jongseok-oh&fontSize=90&animation=fadeIn" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&maxWidth=100%&color=0:E55D87,%20100:5FC3E4&section=header&text=jongseok-oh&fontColor=ffffff&fontSize=50&fontAlign=77&fontAlignY=35" /></p>
 
 ## 👨‍💻 Tech Stack
  <p align="center">
@@ -55,3 +55,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jongseok-oh&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+ <Br>
+ 
+### :mailbox_with_mail: Contact Me
+<a href="mailto:hynb14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" width="100" height="33"></a>
