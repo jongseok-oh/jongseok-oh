@@ -59,4 +59,6 @@
  <Br>
  
 ### :mailbox_with_mail: Contact Me
+
+<a href="https://jongking.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-black?style=flat&logo=github" alt="Blog" width="120" height="33"></a> 
 <a href="mailto:hynb14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" width="100" height="33"></a>
