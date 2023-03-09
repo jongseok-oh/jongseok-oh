@@ -1,11 +1,12 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&maxWidth=100%&color=0:E55D87,%20100:5FC3E4&section=header&text=jongseok-oh&fontColor=ffffff&fontSize=50&fontAlign=77&fontAlignY=35" /></p>
 
-## 👨‍💻 Tech Stack
+## 👨‍💻 Tech Stack & Tools
  <p align="center">
   <Br>
   <img src="https://img.shields.io/badge/Java-EEEEEE?style=for-the-badge&logo=Java&logoColor=FF0000">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"> -->
   <Br>
   <Br>
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
@@ -13,30 +14,16 @@
     
   <Br>
   <Br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
- </p>
- <br>
- <h3 align="center">
-<Br>
-<Br>
- 
-## 🛠️ Tools
- <Br>
- <p align="center">
+   <Br>
    <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
    <img src="https://img.shields.io/badge/github-000021.svg?style=for-the-badge&logo=github&logoColor=white">
-   <Br> 
-    <Br>
-   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C271F.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
-   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-   <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white">
  </p>
- 
-<Br> 
+ <br>
+   
+ <h3 align="center">
+<Br>
 <Br>
 
 ### 🏆 BOJ(Baekjoon Online Judge) Record
@@ -60,5 +47,5 @@
  
 ### :mailbox_with_mail: Contact Me
 
-<a href="https://jongking.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-black?style=flat&logo=github" alt="Blog" width="120" height="33"></a> 
+<a href="https://jongking.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-TechBlog-black?style=flat&logo=github" alt="TechBlog" width="120" height="33"></a> 
 <a href="mailto:hynb14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" width="100" height="33"></a>
